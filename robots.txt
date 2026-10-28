@@ -1,0 +1,7 @@
+# robots.txt for Shepherd Guide
+# NOTE: on a github.io project site, crawlers only read robots.txt from the domain root
+# (https://grok-superd.github.io/robots.txt). This file takes full effect once a custom domain is used.
+User-agent: *
+Allow: /
+
+Sitemap: https://grok-superd.github.io/german-shepherd-guide/sitemap.xml

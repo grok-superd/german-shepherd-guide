@@ -1,0 +1,6 @@
+# ads.txt placeholder for Shepherd Guide
+# Once your Google AdSense account is approved, replace the commented line below with the exact
+# line shown in AdSense (Sites > ads.txt), using your real publisher ID, and remove the leading "#".
+# ads.txt must be served from the ROOT of your domain (e.g. https://www.example.com/ads.txt),
+# so it only works here once a custom domain is pointed at this GitHub Pages site.
+# google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
